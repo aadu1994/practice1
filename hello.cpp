@@ -6,4 +6,5 @@ int main()
  cout<<"output number 2"<<endl;
  cout<<"output number 3"<<endl;
  cout<<"new branch output"<<endl;
+ cout<<"will now merge"<<endl;
 }
